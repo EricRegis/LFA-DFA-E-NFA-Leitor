@@ -1,0 +1,1 @@
+# LFA-DFA-E-NFA-Leitor
